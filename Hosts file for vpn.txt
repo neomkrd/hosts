@@ -1,0 +1,30 @@
+127.0.0.1 dlied1.tcdn.qq.com 
+127.0.0.1 dlied2.tcdn.qq.com 
+127.0.0.1 dlied3.tcdn.qq.com 
+127.0.0.1 dlied4.tcdn.qq.com 
+127.0.0.1 dlied5.tcdn.qq.com 
+127.0.0.1 dlied6.tcdn.qq.com 
+127.0.0.1 down.qq.com 
+127.0.0.1 dlied1.qq.com 
+127.0.0.1 pingjs.qq.com:443
+127.0.0.1 s.pc.qq.com:443
+127.0.0.1 c.gj.qq.com:443
+127.0.0.1 guanjia.qq.com
+127.0.0.1 sy.guanjia.qq.com:443
+127.0.0.1 sy.guanjia.qq.com:443
+127.0.0.1 guanjia.qq.com
+127.0.0.1 syzs.qq.com
+127.0.0.1 s.pc.qq.com:443
+127.0.0.1 report.huatuo.qq.com:443
+127.0.0.1 pingfore.qq.com:443
+127.0.0.1 m.guanjia.qq.com:443
+127.0.0.1 pingfore.qq.com:443
+127.0.0.1 report.syzs.qq.com:443
+127.0.0.1 pingfore.qq.com:443
+127.0.0.1 m.guanjia.qq.com:443
+127.0.0.1 qbwup.imtt.qq.com
+127.0.0.1 localhost
+127.0.0.1 www.a.com
+
+127.0.0.1       localhost
+::1             ip6-localhost onlyvip97
